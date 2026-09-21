@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://streamaiworkout.com">Stream AI</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/sethcohen2005/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:seth.cohen2142@gmail.com">Email</a>
+  <a href="mailto:seth.cohen2142@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://seth-cohen18.github.io">Portfolio</a>
 </p>
 
 ---
@@ -51,3 +52,4 @@
 - Email: [seth.cohen2142@gmail.com](mailto:seth.cohen2142@gmail.com)
 - LinkedIn: [linkedin.com/in/sethcohen2005](https://www.linkedin.com/in/sethcohen2005/)
 - Stream AI: [streamaiworkout.com](https://streamaiworkout.com)
+- Portfolio: [seth-cohen18.github.io](https://seth-cohen18.github.io)
